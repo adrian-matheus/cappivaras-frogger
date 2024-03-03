@@ -1,0 +1,6 @@
+/estilo2022/imagens/entidades/capivara/
+/estilo2022/imagens/entidades/canoa/
+/estilo2022/imagens/entidades/carro/
+/estilo2022/imagens/entidades/caminhao/
+/estilo2022/imagens/entidades/barco/
+/estilo2022/imagens/entidades/ciclista/

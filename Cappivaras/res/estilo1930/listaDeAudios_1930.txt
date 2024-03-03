@@ -1,0 +1,21 @@
+20
+/estilo1930/audios/efeitosSonoros/movimentoMenu_1930.wav 1
+/estilo1930/audios/efeitosSonoros/selecionaMenu_1930.wav 1
+/estilo1930/audios/efeitosSonoros/pausa_1930.wav 1
+/estilo1930/audios/efeitosSonoros/despausa_1930.wav 1
+/estilo1930/audios/efeitosSonoros/passouDeFase_1930.wav 1
+/estilo1930/audios/efeitosSonoros/passos_1930.wav 1
+/estilo1930/audios/efeitosSonoros/nado_1930.wav 1
+/estilo1930/audios/efeitosSonoros/powerUp_1930.wav 1
+/estilo1930/audios/efeitosSonoros/obstaculo_1930.wav 1
+/estilo1930/audios/efeitosSonoros/quedaNoRio_1930.wav 1
+/estilo1930/audios/efeitosSonoros/colisao_1930.wav 1
+/estilo1930/audios/efeitosSonoros/morte_1930.wav 1
+/estilo1930/audios/musicas/menu_1930.wav 0
+/estilo1930/audios/musicas/pausa_1930.wav 0
+/estilo1930/audios/musicas/derrota_1930.wav 0
+/estilo1930/audios/musicas/vitoria_1930.wav 0
+/estilo1930/audios/musicas/fase1_1930.wav 0
+/estilo1930/audios/musicas/fase2_1930.wav 0
+/estilo1930/audios/musicas/fase3_1930.wav 0
+/estilo1930/audios/musicas/fase4_1930.wav 0

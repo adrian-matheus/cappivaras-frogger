@@ -1,0 +1,5 @@
+4
+/estilo2022/imagens/capivaraCima.png
+/estilo2022/imagens/capivaraBaixo.png
+/estilo2022/imagens/capivaraDireita.png
+/estilo2022/imagens/capivaraEsquerda.png

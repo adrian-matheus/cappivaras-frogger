@@ -1,0 +1,6 @@
+/estilo1930/imagens/entidades/capivara/
+/estilo1930/imagens/entidades/canoa/
+/estilo1930/imagens/entidades/carro/
+/estilo1930/imagens/entidades/caminhao/
+/estilo1930/imagens/entidades/barco/
+/estilo1930/imagens/entidades/ciclista/

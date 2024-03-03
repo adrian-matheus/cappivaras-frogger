@@ -1,0 +1,2 @@
+Cappivaras.jar filter=lfs diff=lfs merge=lfs -text
+Cappivaras/res/ filter=lfs diff=lfs merge=lfs -text

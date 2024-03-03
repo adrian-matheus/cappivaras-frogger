@@ -1,0 +1,5 @@
+4
+/estilo1930/imagens/capivaraCima.png
+/estilo1930/imagens/capivaraBaixo.png
+/estilo1930/imagens/capivaraDireita.png
+/estilo1930/imagens/capivaraEsquerda.png

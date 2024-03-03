@@ -1,0 +1,21 @@
+20
+/estilo2022/audios/efeitosSonoros/movimentoMenu_2022.wav 1
+/estilo2022/audios/efeitosSonoros/selecionaMenu_2022.wav 1
+/estilo2022/audios/efeitosSonoros/pausa_2022.wav 1
+/estilo2022/audios/efeitosSonoros/despausa_2022.wav 1
+/estilo2022/audios/efeitosSonoros/passouDeFase_2022.wav 1
+/estilo2022/audios/efeitosSonoros/passos_2022.wav 1
+/estilo2022/audios/efeitosSonoros/nado_2022.wav 1
+/estilo2022/audios/efeitosSonoros/powerUp_2022.wav 1
+/estilo2022/audios/efeitosSonoros/obstaculo_2022.wav 1
+/estilo2022/audios/efeitosSonoros/quedaNoRio_2022.wav 1
+/estilo2022/audios/efeitosSonoros/colisao_2022.wav 1
+/estilo2022/audios/efeitosSonoros/morte_2022.wav 1
+/estilo2022/audios/musicas/menu_2022.wav 0
+/estilo2022/audios/musicas/pausa_2022.wav 0
+/estilo2022/audios/musicas/derrota_2022.wav 0
+/estilo2022/audios/musicas/vitoria_2022.wav 0
+/estilo2022/audios/musicas/fase1_2022.wav 0
+/estilo2022/audios/musicas/fase2_2022.wav 0
+/estilo2022/audios/musicas/fase3_2022.wav 0
+/estilo2022/audios/musicas/fase4_2022.wav 0
