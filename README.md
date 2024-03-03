@@ -2,7 +2,7 @@
 
   Jogo digital desenvolvido como projeto semestral para a disciplina de Laboratório de Programação Orientada a Objetos(MAC0321), oferecida no primeiro semestre de 2022 para a graduação em Engenharia de Computação na Escola Politécnica da Universidade de São Paulo.
 
-  Esse projeto foi desenvolvido do zero em Java com o intuito de aplicar de forma prática os conceitos téoricos de programação orientada a objetos aprendidos em aula e exercitar alguns dos principais padrões de projeto de software("Design Patterns") utilizados na indústria.
+  Esse projeto foi desenvolvido do zero em Java com o intuito de aplicar de forma prática os conceitos teóricos de programação orientada a objetos aprendidos em aula e exercitar alguns dos principais padrões de projeto de software("Design Patterns") utilizados na indústria.
   
   Desenvolvedores:
   - Adrian Matheus Oliveira
